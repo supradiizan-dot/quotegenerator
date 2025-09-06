@@ -1,0 +1,53 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+/* styles.css */
+body {
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, sans-serif;
+  background: #f9fafb;
+  color: #333;
+}
+
+.app {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #007bff;
+}
+
+.card {
+  background: #fff;
+  padding: 15px;
+  margin: 10px 0;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+button {
+  padding: 8px 14px;
+  margin-right: 5px;
+  border: none;
+  border-radius: 8px;
+  background: #007bff;
+  color: #fff;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #0056b3;
+}
+
+.ads {
+  margin-top: 20px;
+  padding: 20px;
+  text-align: center;
+  border: 2px dashed #999;
+  border-radius: 10px;
+  color: #666;
+}
